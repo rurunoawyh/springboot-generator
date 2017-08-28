@@ -1,0 +1,15 @@
+com\alibaba\ibmanager\dal\Mapper.class
+com\alibaba\ibmanager\dal\StorageException.class
+com\alibaba\ibmanager\face\web\AuthorController.class
+com\alibaba\ibmanager\dal\model\Author.class
+com\alibaba\ibmanager\dal\service\impl\AuthorServiceImpl.class
+com\alibaba\ibmanager\dal\AbstractService.class
+com\alibaba\ibmanager\dal\ResultGenerator.class
+com\alibaba\ibmanager\dal\service\AuthorService.class
+com\alibaba\ibmanager\dal\dao\AuthorMapper.class
+com\alibaba\ibmanager\dal\Service.class
+com\alibaba\ibmanager\dal\Result.class
+com\alibaba\ibmanager\dal\ServiceException.class
+com\alibaba\ibmanager\dal\ResultCode.class
+Hello.class
+ProjectConstant.class
